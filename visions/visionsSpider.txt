@@ -1,674 +1,557 @@
 {'availability': 'Product is available online',
+ 'category': 'LED (32-39")',
  'regPrice': '$349.99',
  'salePrice': '$278.00',
  'title': 'Hisense 32" H3 Series 1366x768 LED TV',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=5&productId=28643&sku=32H3B'}
 {'availability': 'Product is not available online',
- 'regPrice': '$29.99',
- 'salePrice': '$1.00',
- 'title': 'iDeal Case Cubic/Frame series for iPhone 5C - 2-Pack',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=602&productId=27087&sku=ID2P5C2'}
-{'availability': 'Product is available online',
- 'regPrice': '$12.99',
- 'salePrice': '$10.00',
- 'title': 'SADAPTER SIM Card Adapter 3-Pack',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=716&productId=28281&sku=SADAPTER3IN1'}
-{'availability': 'Product is not available online',
+ 'category': 'SmartWatches',
  'regPrice': '$229.99',
  'salePrice': '$178.00',
  'title': 'Motorola Moto 360 Smartwatch - Black / Dark Chrome',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=780&productId=26933&sku=00526NACRTL'}
 {'availability': 'Product is available online',
+ 'category': 'Maxwest',
  'regPrice': '$149.99',
  'salePrice': '$98.00',
  'title': 'Maxwest NitroX5 5" HSPA+ DualSIM Smartphone - Unlocked - Black',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=1059&productId=30249&sku=NITROX5'}
 {'availability': 'Product is not available online',
+ 'category': 'Virgin',
  'regPrice': '$99.99',
  'title': 'Virgin Mobile Alcatel Idol X Mini G (Prepaid)^ - Black',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=600&productId=23548&sku=VIDOLXMINI'}
 {'availability': 'Product is not available online',
+ 'category': 'Sony (Bell)',
  'title': 'Bell Sony Xperia Z3 Compact - Black',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=599&productId=26638&sku=BXPERIAZ3COMP'}
 {'availability': 'Product is available online',
+ 'category': 'Other Camcorder Accessories',
  'regPrice': '$20.99',
  'title': 'GoPole Lenspen Compact Lens (and screen) Cleaner',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=937&productId=29984&sku=GPLENS'}
 {'availability': 'Product is available online',
+ 'category': 'Other Computer Accessories',
  'regPrice': '$34.99',
  'salePrice': '$19.00',
  'title': 'Microsoft LifeChat LX-3000 Headset',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=335&productId=27883&sku=JUG00016'}
 {'availability': 'Product is available online',
+ 'category': 'Software',
  'regPrice': '$1,299.00',
  'title': 'Native Instruments KOMPLETE 10 ULTIMATE Production Suite*',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=699&productId=29084&sku=KOMPLETE10ULTI'}
 {'availability': 'Product is not available online',
+ 'category': 'Scanners',
  'regPrice': '$139.99',
  'salePrice': '$88.00',
  'title': 'IRIScan Anywhere 3',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=811&productId=24289&sku=457485'}
 {'availability': 'Product is not available online',
+ 'category': 'Scanners',
  'regPrice': '$99.99',
  'salePrice': '$68.00',
  'title': 'IRIScan Book 3',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=811&productId=24296&sku=457888'}
 {'availability': 'Product is available online',
+ 'category': 'Printers',
  'regPrice': '$499.00',
  'salePrice': '$199.00',
  'title': 'Samsung Xpress Colour Multifunction Printer/Copier/Scaner/Fax With Wi-Fi And NFC',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=22866&sku=SLC460FW'}
 {'availability': 'Product is available online',
+ 'category': 'Office Chairs',
  'regPrice': '$259.99',
  'title': 'CorLiving Executive Office Chair - Black Leatherette',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25606&sku=LOF408O'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$249.99',
  'title': 'Samsung 390 Series 23.6" 1920 x 1080 4ms LED Computer Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28269&sku=LS24E390HL'}
-{'availability': 'Product is available online',
+{'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$169.99',
- 'title': 'Maxwest Nitro Phablet 71 7" 4G HSPA Dual Sim 1.2 GHz Dual Core Tablet - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28985&sku=NITROTAB71BLK'}
+ 'title': 'HISENSE Sero 8 Tablet - Cortex A9 1.4GHz - 16GB - 1GB RAM - Android 4.4',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=25846&sku=E2281CA'}
 {'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$509.00',
+ 'title': 'ACER 15.6" Touchscreen Notebook - Pentium N3700 1.6GHz - 4 GB - 500GB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29616&sku=E5532TP1CH'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$1,699.99',
+ 'title': 'ASUS G20AJ-US009S - i7-4790 3.6 GHz - 8 GB DDR3 - 1 TB HDD / 8 GB SSD - nVIDIA GTX 760 2GB - Win8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=26343&sku=G20AJUS009S'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$1,049.99',
+ 'title': 'ASUS G20AJ-US006S - i3-4150 3.5 GHz - 8 GB DDR3 - 1 TB HDD - nVIDIA GTX 745 4GB - Win8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=26342&sku=G20AJUS006S'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$939.99',
+ 'title': 'ASUS M11AD-US010O - i5-4460 3 GHz - 12 GB - 2 TB HDD - DVD\xc2\xb1RW - Windows 7 Home Premium',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=25888&sku=M11ADUS010O'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$819.99',
+ 'title': 'ASUS M32AD-US027S - i5-4460 3.2 GHz - 4 GB DDR3 - 1 TB HDD - DVD\xc2\xb1RW - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=26352&sku=M32ADUS027S'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$379.99',
+ 'title': 'ASUS K30AM-J-US001S - Celeron J1800 2.41 GHz - 4 GB - 500 GB HDD - DVD\xc2\xb1RW - Windows 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=25885&sku=K30AMJUS001S'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$329.99',
+ 'title': 'Dell Optiplex 390 Desktop - Intel i3-2100 3.1GHz - 4GB RAM - 250GB HDD - Refurbished',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=30224&sku=DELL390'}
+{'availability': 'Product is not available online',
+ 'category': 'Desktops',
+ 'regPrice': '$299.00',
+ 'title': 'HP Elite 8000 Tower PC - Intel Core 2 Duo E7500 2.93GHz, 4GB DDR3, 1TB HDD, Win 7 - Refurbished*',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=29077&sku=HPELITE8000'}
+{'availability': 'Product is available online',
+ 'category': 'Desktops',
+ 'regPrice': '$199.99',
+ 'title': 'Intel\xc2\xae STCK1A32WFCR HDMI Compute Stick for TV and Monitors - Z3735F 1.33 GHz - 2GB RAM - 32GB Flash',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=28051&sku=STCK1A32WFCR'}
+{'availability': 'Product is available online',
+ 'category': 'Media Streaming',
+ 'regPrice': '$129.99',
+ 'title': 'Lenovo Ideacentre HDMI PC Stick 300 - Intel Atom Z3735F 1.33 GHz - 2GB RAM - 32GB Flash - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=802&productId=29420&sku=90F20000US'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$499.99',
+ 'title': 'ACER 17.3" Notebook - N3540 2.16 GHz - Intel HD Graphics - 4GB RAM - 500GB HDD - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29626&sku=ES1711P9PZ'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$469.99',
+ 'title': 'ASUS 15.6" - N2840 2.16GHz - 4GB DDR3L - 500GB HDD - Windows 10 Home - 64 bit',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=30089&sku=X553MAQC2XCB'}
+{'availability': 'Product is not available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$429.00',
+ 'title': 'ASUS 10" Transformer Book T100TAF With Keyboard Dock ^',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=26156&sku=T100TAFDH13TCA'}
+{'availability': 'Product is available online',
+ 'category': 'Gift Cards',
+ 'regPrice': '$100.00',
+ 'title': '$100 - Visions Gift Card',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2376&sku=GIFTCARD100'}
+{'availability': 'Product is available online',
+ 'category': 'Gift Cards',
+ 'regPrice': '$50.00',
+ 'title': '$50 - Visions Gift Card',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2378&sku=GIFTCARD50'}
+{'availability': 'Product is available online',
+ 'category': 'Gift Cards',
+ 'regPrice': '$25.00',
+ 'title': '$25 - Visions Gift Card',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2377&sku=GIFTCARD25'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$419.99',
+ 'title': 'ACER 15.6" Notebook - N2840 2.16 GHz - Intel HD - 4GB RAM - 500GB HDD - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=28783&sku=ES1512C1PS'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$429.99',
+ 'salePrice': '$399.00',
+ 'title': 'ACER Aspire Switch 10 - 10.1" - Z3745F 1.33 GHz - Intel HD - 2GB RAM - 32GB SSD - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=26397&sku=SW501219RC'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$399.00',
+ 'title': 'DELL e6320 13.3" Notebook i5-2520 2.5GHz - 4G RAM - 250GB HDD - Win 7 Home - Refurbished*',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29261&sku=DELLE6320'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$429.99',
+ 'salePrice': '$399.00',
+ 'title': 'ACER 11.6" Touchscreen Notebook - N3050 1.60 GHz - Intel HD - 4GB RAM - 500GB HDD - Windows 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=29623&sku=R3131TC1Z2'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$419.99',
+ 'salePrice': '$379.00',
+ 'title': 'ACER 15.6" Notebook - N3050 1.60 GHz - Intel HD - 4GB RAM - 500GB HDD - Win 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29621&sku=ES1531C6FQ'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$449.00',
+ 'salePrice': '$348.00',
+ 'title': 'HP 14" EliteBook 8460p Intel Core\xc2\xae i5-2520M - 8GB RAM - 500GB HDD - Windows 7 - Refurbished*',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29076&sku=HP8460P'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$399.00',
+ 'salePrice': '$298.00',
+ 'title': 'ASUS 10" Transformer Book Intel\xc2\xae Bay Trail-T Quad Core Z3735 1.33 GHz ~ 1.86 GHz Notebook',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=26157&sku=T100TAMDH11TCA'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$269.99',
+ 'title': 'HP 11.6" Stream Notebook - N3050 1.6 GHz - 2GB RAM - 32GB eMMC + 1TB OneDrive Cloud - Win 10 64-bits',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=30081&sku=11-R010CA'}
+{'availability': 'Product is available online',
+ 'category': 'Chromebooks',
+ 'regPrice': '$269.00',
+ 'salePrice': '$248.00',
+ 'title': 'ASUS 11.6" C201 Chromebook - RK3288C Quad Core 1.8GHz - 4GB RAM - ChromeOS',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=28491&sku=C201PADS02'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$199.00',
+ 'title': 'Lenova 11.6" IdeaPad N21 Chromebook - N2840 2.16GHz - 2GB RAM - 16GB SSD - ChromeOS',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29777&sku=80MG0000US'}
+{'availability': 'Product is available online',
+ 'category': 'Chromebooks',
+ 'regPrice': '$199.00',
+ 'title': 'ASUS 11.6" C201 Chromebook - RK3288C Quad Core 1.8GHz - 2GB RAM - ChromeOS',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=28490&sku=C201PADS01'}
+{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$149.99',
  'title': 'Digital2 10" Android 4.2 WiFi Bluetooth Tablet',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29661&sku=D21061G1MS'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$219.99',
  'salePrice': '$149.00',
  'title': 'Samsung Galaxy Tab 4 7" 8GB (Wi-Fi) Tablet - Black',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=24101&sku=SMT230BLACK'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$219.99',
  'salePrice': '$149.00',
  'title': 'Samsung Galaxy Tab 4 7" 8GB (Wi-Fi) Tablet - White',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=24100&sku=SMT230'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$129.99',
  'title': 'ASUS ZenPAD 7" C 7.0 16GB Tablet with IPS screen',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28733&sku=Z170C'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$169.99',
  'salePrice': '$129.00',
  'title': 'Samsung Galaxy Tab 3 Lite 7" - WiFi',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=23218&sku=SMT110'}
 {'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$109.99',
  'title': 'Hisense 7" 8G Tablet - Android 4.4',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=25845&sku=E2171CA'}
 {'availability': 'Product is available online',
- 'regPrice': '$99.99',
- 'title': 'Proscan 7" 8GB Android 4.4 KitKat Tablet with Case and Keyboard',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29233&sku=PLT7649G'}
-{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$99.99',
  'title': 'Proscan 7" 8GB Android 4.4 Tablet with Case and Keyboard',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28147&sku=PLT7100GCK8GB'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
+ 'regPrice': '$99.99',
+ 'title': 'Proscan 7" 8GB Android 4.4 KitKat Tablet with Case and Keyboard',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29233&sku=PLT7649G'}
+{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$129.99',
  'salePrice': '$98.00',
  'title': 'Proscan 10" Tablet With Keyboard - Dual Core 1.3GHz - 8GB - Android 4.4',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=26024&sku=PLT1077GBTK'}
 {'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$129.99',
  'salePrice': '$88.00',
  'title': 'Proscan 7" 16GB Tablet - Windows 8.1',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27632&sku=PLT7064K'}
 {'availability': 'Product is available online',
+ 'category': 'Gaming Laptops',
+ 'regPrice': '$1,398.00',
+ 'title': 'MSI Apache Pro 17.3" Gaming Notebook - i7-5700HQ 2.7 GHz - 1TB HDD - 12GB - Includes Bonus Backpack',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=29246&sku=GE722QD405US'}
+{'availability': 'Product is available online',
+ 'category': 'Ultrabooks',
+ 'regPrice': '$1,849.00',
+ 'title': 'Lenovo 12.5" ThinkPad x250 i5-5300U 2.3GHz - 8GB RAM - 180GB SDD - Windows 7 Pro 64 (8.1 DG Rights)',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=695&productId=29767&sku=20CM0033US'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$899.99',
+ 'salePrice': '$816.00',
+ 'title': 'HP Star Wars Special Edition 15.6" Notebook - i5-6200U - 8GB DDR3L - 1TB HDD - Windows 10 Home 64',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29660&sku=15-AN050CA'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$729.00',
+ 'title': 'HP Pavilion 13" Touchscreen - i3-6100U 2.3 GHz - 4GB DDR3L RAM - 500GB HDD - Windows 10 - 64bit',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=30215&sku=13-S120CA'}
+{'availability': 'Product is available online',
+ 'category': 'Gaming Laptops',
+ 'regPrice': '$1,419.00',
+ 'title': 'ASUS ROG 17.3" - i7-6700HQ 2.5GHz - 16G DDR4 - 1TB HDD - NVIDIA GTX 960M 2GB GDDR5 - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=29680&sku=GL752VWDH71'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$1,299.99',
+ 'title': 'ACER 13.3" i5-4200U 1.6GHz - Intel HD 4400 - 8GB RAM - 128GB SSD',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=28240&sku=S73925427'}
+{'availability': 'Product is not available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$749.99',
+ 'title': 'ACER 17.3" Notebook - i5-5200U 2.2 GHz - NVIDIA GeForce GTX 940M - 8GB RAM - 1TB HDD - Win 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29620&sku=E5772G59VG'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$749.99',
+ 'title': 'ACER 17.3" Notebook - i5-6200U 2.3 GHz - NVIDIA GeForce GTX 940M - 8GB RAM - 1TB HDD - Win 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=30794&sku=E5773G525G'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$749.99',
+ 'title': 'ACER 15.6" Touchscreen Notebook - Pentium N3700 1.6GHz - 8GB RAM - 1TB HDD - Windows 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=30603&sku=E5532TP7KN'}
+{'availability': 'Product is not available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$699.99',
+ 'title': 'ACER Aspire E-Series 17.3" AMD A10-8700P 1.8 GHz - 8GB DDR3L - 1TB HDD - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=28629&sku=E5752GT6RR'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$749.99',
+ 'salePrice': '$659.00',
+ 'title': 'ACER 14" Touchscreen Notebook - i5-5200U 2.2 GHz - Intel HD 5500 - 8GB RAM - 1TB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29615&sku=E5473T57M1'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$609.00',
+ 'title': 'ACER 15.6" Touchscreen Notebook - i3-5005U 2.0 GHz - Intel HD 5500 - 6GB RAM - 1TB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29619&sku=E5573T385V'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$649.99',
+ 'salePrice': '$609.00',
+ 'title': 'ACER 15.6" i5-5200U 2.2 GHz - Intel HD 5500 - 4GB RAM - 500GB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29618&sku=E55735067'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$549.00',
+ 'title': 'ACER 15.6" i3-5005U 2.0 GHz - Intel HD 5500 - 4GB RAM - 1TB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29617&sku=E55733012'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$1,249.00',
+ 'title': 'ASUS 15.6" Notebook - i7-6500U 2.5 GHz - GeForce GTX 950M - 8GB RAM - 1TB HDD + 128GB SSD - Win 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29511&sku=K501UXDH71CA'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$948.00',
+ 'title': 'ASUS 15.6" Transformer Book Flip - Touch i7-5500 2.4GHz - 8GB DDR3L - 1TB HDD - Win 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29494&sku=TP500LAWH71T'}
+{'availability': 'Product is not available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$979.00',
+ 'salePrice': '$899.00',
+ 'title': 'ASUS 13.3" UX305 Zenbook Intel\xc2\xae Core\xe2\x84\xa2 m3-6Y30 0.8GHz with IPS - 8GB DDR3 - 256GB SSD - Win 10 64-bit',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29547&sku=UX305CAEHM1'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$899.00',
+ 'title': 'ASUS 15.6" i7-6500U 2.5 GHz Notebook - 8GB RAM - 1TB HDD - Windows 10 64-bit',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29307&sku=F555UAEH71'}
+{'availability': 'Product is not available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$799.00',
+ 'salePrice': '$748.00',
+ 'title': 'ASUS 15.6" i5-5200U 2.3 GHz Notebook - 8GB RAM - 1TB HDD - Windows 10 64-bit',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29306&sku=F555LAEH51'}
+{'availability': 'Product is not available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$648.00',
+ 'title': 'ASUS 15.6" Transformer Book Flip Touchscreen - i3-4005 1.7GHz - 6GB DDR3L - 500GB HDD - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29493&sku=TP500LAWH31T'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$629.99',
+ 'title': 'HP Pavilion 17.3" Notebook - Intel Pentium 3825U - 6GB DDR3L - 1TB HDD - Win 10 Home',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29675&sku=17-G130CA'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$1,749.00',
+ 'title': 'Lenovo 14" ThinkPad X1 i5-5200U 2.2GHz - 4GB RAM - 180GB HDD - Windows 8.1 -> Windows 7 Pro 64',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29764&sku=20BS0037US'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$1,324.00',
+ 'title': 'Lenovo 11.6" ThinkPad Helix Tablet+Folio Dock M-5Y10c 2.0GHz - 4GB RAM - 128GB SSD - Windows 10 Pro',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=29766&sku=20CG006NUS'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$1,129.99',
+ 'title': 'Lenovo Z70 17.3" i7-5500U 2.5 GHz - 1TB+8GB SSHD - NVIDIA GT840M - 8GB RAM - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=30404&sku=80FG00DBUS'}
+{'availability': 'Product is available online',
+ 'category': 'Convertible Laptops',
+ 'regPrice': '$999.99',
+ 'title': 'Lenovo 15.6" Z51 i7 - 5500U 2.4 GHz - 8GB RAM - Radeon R7 M360 - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=492&productId=30399&sku=80K601CRUS'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$899.99',
+ 'title': 'Lenovo 15.6" i7-6500U 2.5 GHz - 8GB RAM - Windows 10',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=30423&sku=80Q70020US'}
+{'availability': 'Product is available online',
+ 'category': 'Ultrabooks',
+ 'regPrice': '$899.00',
+ 'title': 'Lenovo Flex 3 15.6" Touchscreen Ultrabook - i5-5200 2.2GHz - 4GB DDR3L - 500GB HDD - Win 8.1',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=695&productId=29775&sku=80JM001MUS'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$999.00',
+ 'salePrice': '$748.00',
+ 'title': 'Lenovo 14" Thinkpad T450 i5-4300U 2.2GHz - 4GB RAM - 500GB HDD - Windows 7 Pro 64 (Win 8.1 DG) *',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29765&sku=20BV000BUS'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$749.00',
+ 'salePrice': '$668.00',
+ 'title': 'Lenovo 15.6" Thinkpad E550 i5-5200U 2.2GHz - 4GB RAM - 500GB HDD - Windows 7 Pro 64 (Win 8.1 DG) *',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29769&sku=20DF0030US'}
+{'availability': 'Product is available online',
+ 'category': 'Home & Office Laptops',
+ 'regPrice': '$649.00',
+ 'title': 'Lenovo 15.6" Thinkpad E555 A10-7300 1.90GHz - 4GB RAM - 500GB HDD - Windows 7 Pro 64 (Win 8.1 DG)',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=323&productId=29771&sku=20DH002TUS'}
+{'availability': 'Product is available online',
+ 'category': 'Gaming Laptops',
+ 'regPrice': '$1,299.00',
+ 'title': 'MSI Apache Pro 15.6" Gaming Notebook - i7-5700HQ 2.7 GHz - 1TB HDD - 8GB - Includes Bonus Backpack',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=29245&sku=GE622QD453US'}
+{'availability': 'Product is available online',
+ 'category': 'Gaming Laptops',
+ 'regPrice': '$1,179.00',
+ 'title': 'MSI Leopard Pro 17.3" Gaming Notebook - i7-5700HQ 2.7 GHz - 1TB HDD - 8GB - Includes Bonus Backpack',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=714&productId=29247&sku=GP722QE044US'}
+{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$109.99',
  'salePrice': '$55.00',
  'title': 'Proscan 8" Touch Screen 4GB Android 4.1 Tablet with Case and Keyboard - Refurbished',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29791&sku=PLT8801K'}
 {'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$109.00',
  'salePrice': '$55.00',
  'title': 'Proscan 8" Tablet - 1.2GHz - 4GB - 512MB DDR3 - Android 4.1 - Refurbished*',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=26842&sku=PLT8015K'}
 {'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$99.99',
  'salePrice': '$38.00',
  'title': 'Proscan 7" 4GB Tablet - Android 4.1.1 - Refurbished',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28719&sku=PLT7044K'}
 {'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$99.99',
  'salePrice': '$38.00',
  'title': 'Proscan 7" Android 4.1.1 Jelly Bean Tablet (Refurbished) - Keyboard and Case Included',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=23064&sku=PLT7810K'}
 {'availability': 'Product is available online',
- 'regPrice': '$100.00',
- 'title': '$100 - Visions Gift Card',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2376&sku=GIFTCARD100'}
+ 'category': 'Computer Monitors',
+ 'regPrice': '$249.99',
+ 'title': 'Asus 19" 1280x1024 250Nit 5ms 76Hz Widescreen LED Monitor with Speakers',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25383&sku=VB198TP'}
 {'availability': 'Product is available online',
- 'regPrice': '$50.00',
- 'title': '$50 - Visions Gift Card',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2378&sku=GIFTCARD50'}
-{'availability': 'Product is available online',
- 'regPrice': '$25.00',
- 'title': '$25 - Visions Gift Card',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=837&productId=2377&sku=GIFTCARD25'}
-{'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$239.99',
  'title': 'ASUS 21.5" 1920x1080 14ms Widescreen LED Backlit Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25392&sku=VS229HP'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$229.99',
  'title': 'Asus 21.5" 1920x1080 Widescreen LED Backlit Monitor with Speakers - Black',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25371&sku=VE228H'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$219.99',
  'title': 'Samsung 310 Series 24" 1920 x 1080 5ms LED Computer Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28508&sku=LS24E310HL'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$199.99',
  'title': 'ASUS 21.5" 1920x1080 5ms Widescreen LED Backlit Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25375&sku=VS228HP'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$189.99',
  'title': 'VIZTA 24" 1920x1080 5ms LED Monitor with Speakers*',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25368&sku=V24LMHA1'}
 {'availability': 'Product is not available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$179.99',
  'title': 'Samsung 310 Series 22" 1920 x 1080 5ms LED Computer Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28507&sku=LS22E310HS'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$179.99',
  'title': 'Asus 20" 1600x900 250Nit 5ms 76Hz LED Backlit Monitor with Speakers',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25370&sku=VE208T'}
 {'availability': 'Product is not available online',
- 'regPrice': '$769.99',
- 'salePrice': '$649.00',
- 'title': 'Samsung Galaxy Note Pro 12.2"  32GB (WiFi) Tablet - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=23217&sku=SMP900'}
-{'availability': 'Product is not available online',
- 'regPrice': '$229.99',
- 'title': 'Proscan 10.1" 1.33GHz 32GB Intel Atom Z3735G Windows Tablet with Case and Keyboard',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27744&sku=PLT1067PICO'}
-{'availability': 'Product is not available online',
- 'regPrice': '$169.99',
- 'title': 'Proscan 9" Intel 1.0 GHz 16GB Windows 8.1 Tablet',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27633&sku=PLT8967BTK'}
-{'availability': 'Product is available online',
- 'regPrice': '$599.99',
- 'salePrice': '$559.00',
- 'title': 'Samsung Galaxy Tab S2 9.7" 32GB Android Tablet With AMOLED Display - Gold',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28834&sku=SMT810GOLD'}
-{'availability': 'Product is available online',
- 'regPrice': '$599.99',
- 'salePrice': '$559.00',
- 'title': 'Samsung Galaxy Tab S2 9.7" 32GB Android Tablet With AMOLED Display - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28833&sku=SMT810BLACK'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'salePrice': '$459.00',
- 'title': 'Samsung Galaxy Tab S2 8" 32GB Android Tablet with AMOLED Display - Gold',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28831&sku=SMT710GOLD'}
-{'availability': 'Product is not available online',
- 'regPrice': '$169.99',
- 'title': 'HISENSE Sero 8 Tablet - Cortex A9 1.4GHz - 16GB - 1GB RAM - Android 4.4',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=25846&sku=E2281CA'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'salePrice': '$459.00',
- 'title': 'Samsung Galaxy Tab S2 8" 32GB Android Tablet with AMOLED Display - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28830&sku=SMT710BLACK'}
-{'availability': 'Product is available online',
- 'regPrice': '$229.99',
- 'title': 'ASUS ZenPad 10 16GB IPS TabletBlack',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28734&sku=Z300C'}
-{'availability': 'Product is available online',
- 'regPrice': '$179.99',
- 'title': 'ASUS ZenPAD 8" Tablet with IPS screen - Intel Atom X3 1.2 GHz - 2GB RAM - 16GB - Android 5.0 - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29102&sku=Z380CXA2BK'}
-{'availability': 'Product is available online',
- 'regPrice': '$429.99',
- 'salePrice': '$349.00',
- 'title': 'Samsung Galaxy Tab A 9.7" With S Pen Wi-Fi Android Lollipop 5.0 Tablet - Titanium',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27627&sku=SMP550T'}
-{'availability': 'Product is available online',
- 'regPrice': '$329.99',
- 'salePrice': '$279.00',
- 'title': 'Samsung 9.6" Galaxy Tab E 16GB - White',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28829&sku=SMT560WHITE'}
-{'availability': 'Product is available online',
- 'regPrice': '$329.99',
- 'salePrice': '$279.00',
- 'title': 'Samsung 9.6" Galaxy Tab E 16GB - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28828&sku=SMT560BLACK'}
-{'availability': 'Product is available online',
- 'regPrice': '$279.99',
- 'salePrice': '$249.00',
- 'title': 'Samsung Galaxy Tab A 8.0" Wi-Fi Android Lollipop 5.0 Tablet - White',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27630&sku=SMT350W'}
-{'availability': 'Product is available online',
- 'regPrice': '$279.99',
- 'salePrice': '$249.00',
- 'title': 'Samsung Galaxy Tab A 8.0" Wi-Fi Android Lollipop 5.0 Tablet - Titanium',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27629&sku=SMT350T'}
-{'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$219.99',
  'salePrice': '$178.00',
  'title': 'LG 24" IPS 5 MS Response Time HD LED Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=29424&sku=24MP47HQ'}
 {'availability': 'Product is available online',
+ 'category': 'Computer Monitors',
  'regPrice': '$164.99',
  'title': 'ASUS 20" 1600x900 5ms LED Backlit Monitor',
  'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25374&sku=VS208NP'}
 {'availability': 'Product is available online',
- 'regPrice': '$159.99',
- 'title': 'Asus19" 1440x900 Widescreen LED Backlit Monitor with Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25369&sku=VE198T'}
-{'availability': 'Product is available online',
- 'regPrice': '$159.99',
- 'title': 'ASUS 18.5" 1336x768 75Hz 5ms Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25391&sku=VS197DP'}
-{'availability': 'Product is not available online',
- 'regPrice': '$157.00',
- 'title': 'Samsung 22" 1920x1080 5MS Response Time LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=26164&sku=LS22D300HYY'}
-{'availability': 'Product is not available online',
- 'regPrice': '$169.99',
- 'salePrice': '$138.00',
- 'title': 'LG 22" Class Full HD 1920x1080 250 cd/m2 IPS LED Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=29423&sku=22MP47HQ'}
-{'availability': 'Product is available online',
- 'regPrice': '$159.99',
- 'salePrice': '$131.00',
- 'title': 'VIZTA 21.5" 1920x1080 5ms LED Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25367&sku=V22LMHA1'}
-{'availability': 'Product is available online',
- 'regPrice': '$229.99',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25614&sku=LOF808O'}
-{'availability': 'Product is available online',
- 'regPrice': '$229.99',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25608&sku=LOF508O'}
-{'availability': 'Product is available online',
- 'regPrice': '$194.99',
- 'title': 'CorLiving Executive Office Chair - Light Brown Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25611&sku=LOF699O'}
-{'availability': 'Product is available online',
- 'regPrice': '$179.00',
- 'title': 'CorLiving LOF-258-O Executive Office Chair - Black Leatherette and Red Mesh',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25603&sku=LOF258O'}
-{'availability': 'Product is available online',
- 'regPrice': '$169.99',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette/Mesh',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25616&sku=LOF908O'}
-{'availability': 'Product is available online',
- 'regPrice': '$159.00',
- 'title': 'CorLiving LOF-209-O Black Office Chair',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25602&sku=LOF209O'}
-{'availability': 'Product is available online',
- 'regPrice': '$159.00',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25612&sku=LOF708O'}
-{'availability': 'Product is available online',
- 'regPrice': '$149.99',
- 'title': 'CorLiving Tilting/Rolling Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25604&sku=LOF308O'}
-{'availability': 'Product is available online',
- 'regPrice': '$139.99',
- 'title': 'CorLiving Rolling Office Chair - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25605&sku=LOF309O'}
-{'availability': 'Product is available online',
- 'regPrice': '$134.00',
- 'title': 'CorLiving Adjustable Office Stool (Set Of 2) - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25584&sku=DPV508S'}
-{'availability': 'Product is available online',
- 'regPrice': '$129.00',
- 'title': 'CorLiving Adjustable Office Stool (Set Of 2) - Glossy Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25585&sku=DPV509S'}
-{'availability': 'Product is not available online',
- 'regPrice': '$1,799.99',
- 'title': 'Samsung 970 Series 32" 3840 x 2160 UHD 8ms Professional LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28513&sku=LU32D97KQSR'}
-{'availability': 'Product is not available online',
- 'regPrice': '$699.99',
- 'title': 'Samsung 850 Series 32" 2560 x 1440 QHD 5ms LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28512&sku=LS32D85KTSN'}
-{'availability': 'Product is available online',
- 'regPrice': '$649.99',
- 'title': 'Samsung 590 Series 31.5" 1920x1080 16:9 4ms Curved LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28276&sku=LS32E590CS'}
-{'availability': 'Product is available online',
- 'regPrice': '$299.99',
- 'title': 'ASUS 23.6" 1920x1080 1ms Widescreen LED Backlit Monitor with built-in Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=21385&sku=VN247HP'}
-{'availability': 'Product is available online',
- 'regPrice': '$949.99',
- 'salePrice': '$849.00',
- 'title': 'Acer 27" LED Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28598&sku=UMHB0AA001'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'Asus 24" 1920x1080 1ms 3D Widescreen LED Backlit Monitor - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25526&sku=VG248QE'}
-{'availability': 'Product is available online',
- 'regPrice': '$349.99',
- 'title': 'ASUS 24" 1920x1200 Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25395&sku=VS24AHP'}
-{'availability': 'Product is available online',
- 'regPrice': '$339.99',
- 'title': 'Asus 23" 1920x1080 75 Hz 6ms Widescreen LED Backlit Monitor with Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25381&sku=PB238Q'}
-{'availability': 'Product is not available online',
- 'regPrice': '$329.99',
- 'title': 'Asus 23" 1920x1080 5ms 178\xc2\xb0 Ultra-Wide Viewing Angle LED Backlit Monitor with Speakers*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25377&sku=MX239H'}
-{'availability': 'Product is available online',
- 'regPrice': '$697.00',
- 'title': 'Acer T272HLBMJJZ 27" LED Touchscreen Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28604&sku=UMHT2AA003'}
-{'availability': 'Product is not available online',
- 'regPrice': '$549.00',
- 'title': 'Acer 27" LED Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28601&sku=UMHB6AAA01'}
-{'availability': 'Product is available online',
- 'regPrice': '$749.99',
- 'salePrice': '$478.00',
- 'title': 'Acer 27" Widescreen LED Monitor (Open Box)',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=30038&sku=UMHB6AA003OB'}
-{'availability': 'Product is available online',
- 'regPrice': '$417.00',
- 'title': 'Acer 23" LED Touchscreen Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28608&sku=UMVT2AAA01'}
-{'availability': 'Product is available online',
- 'regPrice': '$299.99',
- 'salePrice': '$259.00',
- 'title': 'Acer 24" LED Monitor*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28595&sku=UMFG6AAB01'}
-{'availability': 'Product is available online',
- 'regPrice': '$299.99',
- 'title': 'ASUS 24" 1920x1080 2ms Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25376&sku=VS248HP'}
-{'availability': 'Product is available online',
- 'regPrice': '$279.99',
- 'title': 'ASUS 24" 1920x1080 2ms Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25394&sku=VS247HP'}
-{'availability': 'Product is available online',
- 'regPrice': '$269.99',
- 'title': 'Asus 24" 1920x1080 2ms Widescreen LED Backlit Monitor with Speakers- Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25372&sku=VE247H'}
-{'availability': 'Product is available online',
- 'regPrice': '$259.99',
- 'title': 'ASUS 23" 1920x1080 5ms Widescreen IPS LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25393&sku=VS239HP'}
-{'availability': 'Product is available online',
- 'regPrice': '$259.99',
- 'title': 'Asus 24" 1920x1080 2ms Widescreen LED Backlit Monitor with Speakers - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25373&sku=VE248Q'}
-{'availability': 'Product is available online',
- 'regPrice': '$259.99',
- 'title': 'Asus 21.5" 1920x1080 LED Backlit Monitor with built-in Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25386&sku=VK228HCSM'}
-{'availability': 'Product is available online',
- 'regPrice': '$249.99',
- 'title': 'Asus 19" 1280x1024 250Nit 5ms 76Hz Widescreen LED Monitor with Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25383&sku=VB198TP'}
-{'availability': 'Product is not available online',
+ 'category': 'Tablets',
  'regPrice': '$599.99',
- 'title': 'Samsung 850 Series 27" 2560 x 1440 QHD 5ms LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28510&sku=LS27D85KTSN'}
+ 'salePrice': '$559.00',
+ 'title': 'Samsung Galaxy Tab S2 9.7" 32GB Android Tablet With AMOLED Display - Gold',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28834&sku=SMT810GOLD'}
+{'availability': 'Product is not available online',
+ 'category': 'Tablets',
+ 'regPrice': '$229.99',
+ 'title': 'Proscan 10.1" 1.33GHz 32GB Intel Atom Z3735G Windows Tablet with Case and Keyboard',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27744&sku=PLT1067PICO'}
 {'availability': 'Product is available online',
- 'regPrice': '$429.99',
- 'title': 'Samsung 360 Series 32" 1920x1080 16:9 4ms LED Computer Monitor with Ultra-slim Bezel',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28275&sku=LS32E360FS'}
+ 'category': 'Tablets',
+ 'regPrice': '$169.99',
+ 'title': 'Maxwest Nitro Phablet 71 7" 4G HSPA Dual Sim 1.2 GHz Dual Core Tablet - Black',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28985&sku=NITROTAB71BLK'}
+{'availability': 'Product is not available online',
+ 'category': 'Tablets',
+ 'regPrice': '$169.99',
+ 'title': 'Proscan 9" Intel 1.0 GHz 16GB Windows 8.1 Tablet',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=27633&sku=PLT8967BTK'}
 {'availability': 'Product is available online',
- 'regPrice': '$397.00',
- 'title': 'Samsung 510 Series 27" 1920x1080 16:9 4ms Curved LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28272&sku=LS27E510CS'}
-{'availability': 'Product is available online',
- 'regPrice': '$649.99',
- 'title': 'Asus 29" 2560x1080 5ms 300Nit 76Hz Widescreen LED Monitor with Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25382&sku=PB298Q'}
-{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$599.99',
- 'title': 'ASUS 27" 1920x1080 Widescreen LED Backlit 3D-Ready Monitor with Built-in Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25385&sku=VG278HE'}
+ 'salePrice': '$559.00',
+ 'title': 'Samsung Galaxy Tab S2 9.7" 32GB Android Tablet With AMOLED Display - Black',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28833&sku=SMT810BLACK'}
 {'availability': 'Product is available online',
- 'regPrice': '$529.99',
- 'title': 'Asus 24" 1920x1200 6ms 76Hz Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25379&sku=PA248Q'}
+ 'category': 'Tablets',
+ 'regPrice': '$229.99',
+ 'title': 'ASUS ZenPad 10 16GB IPS TabletBlack',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28734&sku=Z300C'}
 {'availability': 'Product is available online',
- 'regPrice': '$459.99',
- 'title': 'ASUS 27" 1920x1080 5ms Widescreen LED Backlit Monitor with built-in Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25388&sku=VN279QL'}
-{'availability': 'Product is available online',
- 'regPrice': '$449.99',
- 'title': 'Asus 28" 1920x1080 5ms 75Hz Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25390&sku=VN289Q'}
-{'availability': 'Product is available online',
- 'regPrice': '$439.99',
- 'title': 'ASUS 27" 1920x1080 1ms Widescreen LED Backlit Monitor w/Built-in Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25396&sku=VS278QP'}
-{'availability': 'Product is available online',
- 'regPrice': '$429.99',
- 'title': 'Asus 27" 1920x1080 5ms Widescreen LED Backlit Monitor with Speakers',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25378&sku=MX279H'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'Asus 27" 1920x1080 2ms Widescreen LED Backlit Monitor with Speakers- Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25384&sku=VE278H'}
-{'availability': 'Product is not available online',
- 'regPrice': '$347.00',
- 'title': 'Samsung 510 Series 23.5" 1920x1080 16:9 4ms Curved LED Computer Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=28270&sku=LS24E510CS'}
-{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$179.99',
- 'salePrice': '$68.00',
- 'title': 'CorLiving Office Chair Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=29204&sku=WHL100C'}
+ 'title': 'ASUS ZenPAD 8" Tablet with IPS screen - Intel Atom X3 1.2 GHz - 2GB RAM - 16GB - Android 5.0 - Black',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=29102&sku=Z380CXA2BK'}
 {'availability': 'Product is available online',
- 'regPrice': '$168.00',
- 'salePrice': '$68.00',
- 'title': 'CorLiving Rolling Office Chair - Black/Linen',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25607&sku=LOF409O'}
-{'availability': 'Product is available online',
- 'regPrice': '$39.99',
- 'title': 'DXRacer Footrest',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23925&sku=FR6033'}
-{'availability': 'Product is available online',
- 'regPrice': '$719.99',
- 'title': 'Asus 24" 1920x1200 6ms 76Hz Widescreen LED Backlit Monitor',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=450&productId=25380&sku=PA249Q'}
-{'availability': 'Product is available online',
- 'regPrice': '$179.99',
- 'title': 'Brother Compact Laser Multi-Function Printer With WiFi',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=27837&sku=DCP1612W'}
-{'availability': 'Product is available online',
- 'regPrice': '$149.99',
- 'salePrice': '$138.00',
- 'title': 'Canon SELPHY CP1200 Lightweight and Portable Printer - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=30364&sku=CP1200W'}
-{'availability': 'Product is available online',
- 'regPrice': '$149.99',
- 'salePrice': '$138.00',
- 'title': 'Canon SELPHY CP1200 Lightweight and Portable Printer - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=30363&sku=CP1200B'}
-{'availability': 'Product is available online',
- 'regPrice': '$259.99',
- 'salePrice': '$128.00',
- 'title': 'Samsung Xpress Colour Laser Printer - Wi-Fi Enabled',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=22865&sku=SLC410W'}
-{'availability': 'Product is available online',
- 'regPrice': '$249.99',
- 'salePrice': '$128.00',
- 'title': 'Samsung Mono Multifunction Xpress Laser Printer',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=25815&sku=SLM2070FW'}
-{'availability': 'Product is available online',
- 'regPrice': '$249.99',
- 'salePrice': '$78.00',
- 'title': 'Samsung ProXpress Mono Laser Printer',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=28674&sku=SLM3320ND'}
-{'availability': 'Product is available online',
- 'regPrice': '$129.99',
- 'salePrice': '$78.00',
- 'title': 'HP ENVY 5540 All-in-One Colour Photo Inkjet Printer',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=30134&sku=K7C85AB1H'}
-{'availability': 'Product is available online',
- 'regPrice': '$139.99',
- 'salePrice': '$68.00',
- 'title': 'Samsung Xpress M2020W Wireless Printer',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=25814&sku=SLM2020W'}
-{'availability': 'Product is available online',
- 'regPrice': '$99.99',
- 'salePrice': '$38.00',
- 'title': 'Canon PIXMA WiFi All-In-One Inkjet Printer',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=29837&sku=MG2920'}
-{'availability': 'Product is not available online',
- 'regPrice': '$44.99',
- 'salePrice': '$24.00',
- 'title': 'Brother PT-H100 Handheld Label Maker',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=27839&sku=PTH100'}
-{'availability': 'Product is available online',
- 'regPrice': '$39.99',
- 'salePrice': '$18.00',
- 'title': 'Brother PT-90 Household Label Maker',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=478&productId=27838&sku=PT90'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming/Office Chair - Black w/White Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23767&sku=OHFE32'}
-{'availability': 'Product is available online',
- 'regPrice': '$264.99',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25613&sku=LOF709O'}
-{'availability': 'Product is available online',
- 'regPrice': '$349.00',
- 'title': 'CorLiving Conference Chair (Set Of 2) - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25610&sku=LOF608O'}
-{'availability': 'Product is available online',
- 'regPrice': '$264.99',
- 'title': 'CorLiving Executive Office Chair - Black Leatherette',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=25609&sku=LOF509O'}
-{'availability': 'Product is not available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming/Office Chair - Black With White Trim',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23766&sku=OHFE08NW'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming Chair - Black And Red',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23765&sku=OHFE08NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming/Office Chair - Black w/Orange Trim',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23764&sku=OHFE08NO'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming Chair - Black And Orange',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30359&sku=OHFE00NO'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series PC Gaming Chair - Black And Green*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=28061&sku=OHFE08NE'}
-{'availability': 'Product is available online',
- 'regPrice': '$459.99',
- 'title': 'DXRacer Racing Series Gaming/Office Chair - Black with Red Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23784&sku=OHRC01NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$429.99',
- 'title': 'DXRacer F-Series Gaming/Officer Chair With Headrest & Lumbar Cushion - Blue/White *',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=26786&sku=OHFD18BWB'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'DXRacer Formula Series Fabric Gaming Chair - Black with Orange Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30389&sku=OHFE11NO'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'DXRacer Formula Series Fabric Gaming Chair - Black with Green Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30388&sku=OHFE11NE'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'DXRacer Formula Series Fabric Gaming Chair - Black with Light Blue Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30387&sku=OHFE11NB'}
-{'availability': 'Product is available online',
- 'regPrice': '$399.99',
- 'title': 'DXRacer Formula Series Gaming Chair - Black And Red *',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30358&sku=OHFD91NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$389.99',
- 'title': 'DXRacer Formula Series Gaming/Office Chair - Black w/Red Grid',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23761&sku=OHFD01NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$389.99',
- 'title': 'DXRacer Formula Series Office/Gaming Chair - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23760&sku=OHFD01N'}
-{'availability': 'Product is available online',
- 'regPrice': '$539.99',
- 'title': 'DXRacer Classic Series Office Chair - Black with Tan Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30382&sku=OHCFXLNC'}
-{'availability': 'Product is available online',
- 'regPrice': '$519.99',
- 'title': 'DXRacer Drifting Series Gaming/Office Chair - Black w/Yellow Trim',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23754&sku=OHDF51NY'}
-{'availability': 'Product is available online',
- 'regPrice': '$519.99',
- 'title': 'DXRacer Drifting Series Gaming/Office Chair - Black w/White Trim',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23753&sku=OHDF51NW'}
-{'availability': 'Product is available online',
- 'regPrice': '$519.99',
- 'title': 'DXRacer Drifting Series Gaming/Office Chair - Black w/Red Trim',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23752&sku=OHDF51NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$519.99',
- 'title': 'DXRacer Drift Series Office Chair - Black Fabric with Blue Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30385&sku=OHDF51NB'}
-{'availability': 'Product is available online',
+ 'category': 'Tablets',
  'regPrice': '$499.99',
- 'title': 'DXRacer Drift Series Office Chair - Black Fabric with Red Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30384&sku=OHDA02NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'title': 'DXRacer Racing Series Office/Gaming Chair - Black and White with Blue Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30391&sku=OHRF118NBW'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'title': 'DXRacer Formula Series Console Gaming Chair - Black with Red Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30374&sku=FSFA99NRSUIT'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'title': 'DXRacer Formula Series Console Gaming Chair - Black with Orange Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30373&sku=FSFA96NOSUIT'}
-{'availability': 'Product is available online',
- 'regPrice': '$499.99',
- 'title': 'DXRacer Drifting Series Office/Gaming Chair - Grey',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=23937&sku=OHDE91GN'}
-{'availability': 'Product is available online',
- 'regPrice': '$479.99',
- 'title': 'DXRacer Racing Series PC Gaming Chair - Black And Green*',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=28063&sku=OHRF0NE'}
-{'availability': 'Product is available online',
- 'regPrice': '$479.99',
- 'title': 'DXRacer Racing Series Gaming/Office Chair - Black w/Red Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=28239&sku=OHRC11NR'}
-{'availability': 'Product is available online',
- 'regPrice': '$469.99',
- 'title': 'DXRacer Formula Series Gaming/Office Chair - Black w/Pink Trim *',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=28238&sku=OHFE08NP'}
-{'availability': 'Product is not available online',
- 'regPrice': '$79.99',
- 'salePrice': '$48.00',
- 'title': 'IRIScan Mouse & Scanner',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=811&productId=24293&sku=457885'}
-{'availability': 'Product is available online',
- 'regPrice': '$549.99',
- 'title': 'DXRacer Gaming Desk - Black',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=669&productId=30375&sku=GD1000N'}
-{'availability': 'Product is available online',
- 'regPrice': '$539.99',
- 'title': 'DXRacer Classic Series Office Chair - Black with White Highlights',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=793&productId=30383&sku=OHCFXLNW'}
-{'availability': 'Product is available online',
- 'regPrice': '$1,099.00',
- 'title': 'Native Instruments KOMPLETE 10 ULTIMATE Production Suite - Crossgrade *',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=699&productId=29085&sku=KOMPLETEULITCRG'}
-{'availability': 'Product is not available online',
- 'regPrice': '$799.99',
- 'title': 'Family Software Suite Deluxe on DVD',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=699&productId=28764&sku=50871'}
-{'availability': 'Product is available online',
- 'regPrice': '$549.00',
- 'title': 'Native Instruments KOMPLETE 10 Production Suite - Crossgrade *',
- 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=699&productId=29083&sku=KOMPLETE10CRG'}
+ 'salePrice': '$459.00',
+ 'title': 'Samsung Galaxy Tab S2 8" 32GB Android Tablet with AMOLED Display - Gold',
+ 'url': 'http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=641&productId=28831&sku=SMT710GOLD'}

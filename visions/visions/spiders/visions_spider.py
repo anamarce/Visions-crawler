@@ -11,7 +11,7 @@ class VisionsSpider(CrawlSpider):
     domain_name = "visions.ca"
     start_urls = ["http://www.visions.ca/"]
 
-    download_delay = 1
+    download_delay = 0.5
 
     """The rules obtain all the links for the categories and follow the links"""
     rules = (
@@ -33,12 +33,21 @@ class VisionsSpider(CrawlSpider):
     def parse_item(self,response):
         sel = Selector(response)
         il = ItemLoader(item=Product(), response=response)
-        il.add_css("title", "span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblProdTitle::text")
-        il.add_value("url",response.url)
+
+        cat = il.get_xpath('//div[contains(@id, "ctl00_pnlBreadCrumbs")]/a[last()]/text()')
+        availability = il.get_xpath('//a[contains(@id,"hplddToCart") or contains(@class,"addToCart")]/text()')
         price = il.get_css('span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblRegprice > font::text')
         sale = il.get_css('span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblSaleprice > font::text')
-        availability = il.get_xpath('//a[contains(@id,"hplddToCart") or contains(@class,"addToCart")]/text()')
-
+       
+        """If the xpath doesn't retunr a category, the product belongs to the Bundle category"""
+        if not cat:
+            il.add_value("category", "Bundle")
+        else:
+            il.add_value("category", cat)
+       
+        il.add_css("title", "span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblProdTitle::text")
+        il.add_value("url",response.url)
+       
         """If a product can be added to the cart, the product is available online, if not, the product is not available online"""
         if "ADD TO CART" in availability:
             il.add_value("availability", "Product is available online")
