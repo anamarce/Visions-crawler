@@ -7,7 +7,7 @@ My crawler goes to the www.visions.ca website and checks every category, obtains
 #Things to consider
 To complete the challenge I had to assume the following:
 * The Categories included what's listed on the site as Departments, subcategories for each department and the sub-subcategories displayed on the menu.
-* Availability is whether or not you can add a product to your cart or just to your wishlist.
+* Availability is whether or not you can buy a product online. If you can add a product to your cart, the product is available online, if not, the product is not available online.
 
 #Special Scenarios:
 Two specials scenarios can happen on the site:
