@@ -11,9 +11,9 @@ To complete the challenge I had to assume the following:
 
 #Special Scenarios:
 Two specials scenarios can happen on the site:
-*A Product does not have a price listed (sale or regular price)
+* A Product does not have a price listed (sale or regular price)
 E.g.,: http://www.visions.ca/Catalogue/Category/Details.aspx?categoryId=599&productId=26638&sku=BXPERIAZ3COMP
-*A Product only has a Regular Price, for this case I had to create a condition that switches the "sale price" for the "regular price". On the website the price is shown as the regular price (styling) however, on code, the price displayed is using the sales label.
+* A Product only has a Regular Price, for this case I had to create a condition that switches the "sale price" for the "regular price". On the website the price is shown as the regular price (styling) however, on code, the price displayed is using the sales label.
 
 #Running instructions
 Go to the root folder and run the following:
