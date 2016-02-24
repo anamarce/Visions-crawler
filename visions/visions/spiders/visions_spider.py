@@ -11,6 +11,8 @@ class VisionsSpider(CrawlSpider):
     domain_name = "visions.ca"
     start_urls = ["http://www.visions.ca/"]
 
+    download_delay = 1
+
     """The rules obtain all the links for the categories and follow the links"""
     rules = (
         Rule(SgmlLinkExtractor(restrict_xpaths=(
@@ -33,9 +35,15 @@ class VisionsSpider(CrawlSpider):
         il = ItemLoader(item=Product(), response=response)
         il.add_css("title", "span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblProdTitle::text")
         il.add_value("url",response.url)
-        il.add_xpath("availability",'//a[contains(@id,"hplddToCart") or contains(@class,"addToCart")]/text()')
         price = il.get_css('span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblRegprice > font::text')
         sale = il.get_css('span#ctl00_ContentPlaceHolder1_ctrlProdDetailUC_lblSaleprice > font::text')
+        availability = il.get_xpath('//a[contains(@id,"hplddToCart") or contains(@class,"addToCart")]/text()')
+
+        """If a product can be added to the cart, the product is available online, if not, the product is not available online"""
+        if "ADD TO CART" in availability:
+            il.add_value("availability", "Product is available online")
+        else:
+            il.add_value("availability", "Product is not available online")
 
         """If there's a sale price present but not a regular price present, it switches the sale price for the regular price as shown in the website"""
         if not price:
