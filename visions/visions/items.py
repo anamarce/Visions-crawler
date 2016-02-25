@@ -30,3 +30,7 @@ class Product(scrapy.Item):
 		)
 	availability = Field(output_processor = TakeFirst())
 
+class Category(scrapy.Item):
+	title = Field()
+	url = Field()
+
