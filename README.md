@@ -2,11 +2,11 @@
 This is my assessment for the 360pi assessment challenge.
 
 #Description
-My crawler goes to the www.visions.ca website and checks every category to obtain the title, url, regular price, sale price and availability for each product and a second spider returns all the category names and url's. Each product and category information is written to a text file and a JSON file that can be found in the root folder once the spider has been run.
+My crawler goes to the www.visions.ca website and checks every category to obtain the title, URL, regular price, sale price and availability for each product and a second spider returns all the category names and URL. Each product and category information is written to a text file and a JSON file that can be found in the root folder once the spider has been run.
 
 I created two spiders: 
-* "visionsSpider" (visions_spider.py): This spider returns all the product information and writes into a JSON file named "visionsSpider.json" and a text file named "visionsSpider.txt" found in the root folder.
-* "categorySpider" (category_spider.py): This spider returns all the categories available on the website and writes the results to a JSON file named "categorySpider.json" and a text file named "categorySpider.txt" found in the root folder.
+* "visionsSpider" (visions_spider.py): This spider returns all the product information and writes into "visionsSpider.json" and "visionsSpider.txt".
+* "categorySpider" (category_spider.py): This spider returns all the categories available on the website and writes into "categorySpider.json" and "categorySpider.txt".
 
 #Things to consider
 To complete the challenge I had to assume the following:
@@ -24,6 +24,6 @@ To get the categories available on the website, go to the root folder and run th
 
 scrapy crawl categorySpider
 
-To get the products information, go to the root folder and run the following command:
+To get the product information, go to the root folder and run the following command:
 
 scrapy crawl visionsSpider
